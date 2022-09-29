@@ -2,7 +2,7 @@
 
 ## Project Title
 
-*Hello World Practice 
+*Hello World Practice*
 
 ## Description of project
 
@@ -10,7 +10,6 @@ Practiced using GitHub by creating a sample repository.
 
 ## How to Run Program 
 
-```
 
 
 ## Additional Documentation
