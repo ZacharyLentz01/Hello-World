@@ -14,7 +14,7 @@ Practiced using GitHub by creating a sample repository.
 
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+<No additional documentation at this time.>
 
 ## Files Used 
 
